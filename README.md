@@ -1,27 +1,31 @@
-# 🍷 Wine of House - Premium Wine Landing Page
+# Wine House — Premium Wine Landing Page
 
-This is a modern and responsive landing page for a premium wine selection service. The project focuses on providing a sophisticated user experience through clean design, elegant typography, and interactive elements.
+## In plain English
+A one-page website for a fictional premium wine shop: a photo carousel at the top, a menu that stays visible while you scroll, a "Featured Collection" grid of bottles, and an About / Location section. No frameworks and no build tools — just HTML, CSS and a little JavaScript, which makes it a good example of the basics done cleanly.
 
-## 🚀 Demo
-You can view the live project here: http://127.0.0.1:5500/index.html#about
+**Live page:** https://willian-yudy-f.github.io/Wine-House/
 
-## ✨ Features
-* **Hero Carousel**: An interactive image slider featuring high-quality wine imagery.
-* **Sticky Navigation**: A fixed header that allows easy access to different sections (Home, Products, About Us, Location).
-* **Product Gallery**: A curated "Featured Collection" grid with hover effects for better engagement.
-* **Responsive Design**: Fully optimized for different screen sizes using modern CSS techniques.
+This was one of my first front-end projects at AIT Sydney (Foundations of Web Development). Years of working behind a bar made wine a natural subject — the same interest later became [Wine Dex](https://github.com/Willian-Yudy-F/wine-dex), a full web app.
 
-## 🛠️ Tech Stack
-This project was built from scratch using:
-* **HTML5**: Semantic structure.
-* **CSS3**: Advanced layouts using **Flexbox** and **CSS Grid**.
-* **JavaScript**: Logic for the automatic image carousel and navigation.
-* **Google Fonts**: 'Playfair Display' for headlines and 'Poppins' for body text.
+## Features
+- **Hero carousel** — automatic image slider with high-quality wine photography
+- **Sticky navigation** — Home, Products, About Us and Location always one click away
+- **Product gallery** — CSS Grid with hover effects
+- **Responsive layout** — Flexbox and Grid adapt from phone to desktop
 
-## 📂 Project Structure
-```text
+## Tech
+HTML5 · CSS3 (Flexbox, Grid) · vanilla JavaScript · Google Fonts (Playfair Display, Poppins)
+
+## Project structure
+```
 Wine-House/
-├── images/          # Local storage for all project images
-├── index.html       # Main HTML file
-├── style.css        # Custom CSS styles
-└── README.md        # Project documentation
+├── images/      photos (Unsplash) and logo
+├── index.html   page structure
+└── style.css    styles
+```
+
+## Run it
+Open `index.html` in any browser — nothing to install.
+
+---
+Willian Yudy Futema · [Portfolio](https://willian-yudy-f.github.io/) · [LinkedIn](https://www.linkedin.com/in/willian-yudy-futema/)
